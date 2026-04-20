@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: plato-tile-fountain
+Version: 0.1.0
+Summary: Auto-generate tiles from docs, code comments, FAQ, ML outputs
+License: MIT
+Requires-Python: >=3.8
